@@ -1,11 +1,14 @@
 
-# on master
+// ------mergerd once-------
+// # on dev
+// # delete binarySearch
+// # on master
+// -----------
 
 int binarySearch(std::vector<int> v,int x){
 	if(v.size() = 0){
 		return -1;
 	}
-
 
 }
 
