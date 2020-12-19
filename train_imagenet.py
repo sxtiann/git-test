@@ -1,7 +1,5 @@
-# on master
 
-
-# master git 
+# mergerd on 1220-01:29
 
 
 import matplotlib
