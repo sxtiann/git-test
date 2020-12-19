@@ -1,11 +1,5 @@
-# on dev py
-# add binary Search
 
-int binarySearch(std::vector<int> v,int x){
-	if(v.size() = 0){
-		return -1;
-	}
-}
+# mergerd on 1220-01:29
 
 
 import matplotlib
