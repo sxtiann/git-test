@@ -1,3 +1,13 @@
+# on dev py
+# add binary Search
+
+int binarySearch(std::vector<int> v,int x){
+	if(v.size() = 0){
+		return -1;
+	}
+}
+
+
 import matplotlib
 matplotlib.use('Agg')
 
